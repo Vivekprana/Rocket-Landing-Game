@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenuItems/MainMenu.unity
+    guid: 0dea9f6fc00d8419a85d0b8d11a504c7
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Tutorial WalkThrough.unity
+    guid: b2de304044966455da052848c2cd131c
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level 0 noAsteroids.unity
+    guid: f8cfd7a374bb54c518fe8f30e5d7a924
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level 0 Asteroids 1.unity
+    guid: 2b2599f28412f4ffaa7b6c5606aadb58
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level 0 Asteroids 2.unity
+    guid: c5c77de4223c644bd92ed451fc339ee8
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level 0 Asteroids 3.unity
+    guid: 5960fd14bc6f5415facb796005968b98
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level1 - no Asteroids.unity
+    guid: c822cc26395194cc9ba2b9f0e829302b
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level1 - Asteroids1.unity
+    guid: cd740979e4be840a2b6d9ea426bb5cf8
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level1 - Asteroids2.unity
+    guid: 241bf7f34da5e488c85ac94ebe562518
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level1 - Asteroids3.unity
+    guid: 7cba9b93784114921b1fa501f9d76435
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level2- no Asteroids.unity
+    guid: 34416b4c87fdb42348a6a6ef67a3ad3b
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level2 - Asteroids1.unity
+    guid: 73ffa7f6c7a9f4e139c1633503feec61
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level2-  Asteroids2.unity
+    guid: 634d6ee533a804bf4aabd3ffae7b3a11
+  - enabled: 1
+    path: Assets/TutorialLevelFolders/Scenes/Level2- Asteroids 3.unity
+    guid: 72b700462e3a14d24a2730a8ac941390
+  - enabled: 1
+    path: Assets/InstructionsScene/Instructions.unity
+    guid: 9c9bd2f2dc30346b3bfe22c1fded3062
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c5a3a72d705b64624a3b28ba0e44cac5,
+      type: 2}
